@@ -1,0 +1,22 @@
+.form{
+	margin:60px;
+	margin-left:200px;
+	border:15px solid #01dfa5;
+	padding-left:50px;
+	clear:right;
+	float:right;
+	position:absolute;
+		
+		border-radius: 10px;
+}
+
+button{
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+		padding-bottom:10px;
+		float:middle;
+
+}
+
+	
